@@ -1,0 +1,4523 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.6,
+                    -16.4659
+                ]
+            },
+            "properties": {
+                "country": "Bolivia",
+                "disaster_type": "Flood",
+                "iso": "BOL",
+                "total_damages": 20000.0,
+                "total_deaths": 52.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.11,
+                    27.0633
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 54130.0,
+                "total_deaths": 6.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47,
+                    27.89
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 6400000.0,
+                "total_deaths": 467.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.15,
+                    5.69
+                ]
+            },
+            "properties": {
+                "country": "Colombia",
+                "disaster_type": "Flood",
+                "iso": "COL",
+                "total_damages": 1030000.0,
+                "total_deaths": 138.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.957,
+                    24.727
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 290000.0,
+                "total_deaths": 25.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.672,
+                    37.699
+                ]
+            },
+            "properties": {
+                "country": "Spain",
+                "disaster_type": "Earthquake",
+                "iso": "ESP",
+                "total_damages": 200000.0,
+                "total_deaths": 10.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.34,
+                    22.306
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 275000.0,
+                "total_deaths": 47.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    259.63,
+                    125.091
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Flood",
+                "iso": "PHL",
+                "total_damages": 280.0,
+                "total_deaths": 16.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.75,
+                    22.11
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Storm",
+                "iso": "MEX",
+                "total_damages": 70000.0,
+                "total_deaths": 22.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.373,
+                    38.297
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Earthquake",
+                "iso": "JPN",
+                "total_damages": 210000000.0,
+                "total_deaths": 19846.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.25,
+                    7.60326
+                ]
+            },
+            "properties": {
+                "country": "Sri Lanka",
+                "disaster_type": "Flood",
+                "iso": "LKA",
+                "total_damages": 200000.0,
+                "total_deaths": 47.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.78,
+                    9.40044
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Flood",
+                "iso": "PHL",
+                "total_damages": 12411.0,
+                "total_deaths": 23.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.21,
+                    8.306
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Flood",
+                "iso": "PHL",
+                "total_damages": 10666.0,
+                "total_deaths": 12.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.28,
+                    8.666
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 317000.0,
+                "total_deaths": 64.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.82,
+                    17.038
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 40000000.0,
+                "total_deaths": 813.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.06,
+                    40.186
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Storm",
+                "iso": "USA",
+                "total_damages": 7300000.0,
+                "total_deaths": 46.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.67,
+                    51.448
+                ]
+            },
+            "properties": {
+                "country": "Kazakhstan",
+                "disaster_type": "Flood",
+                "iso": "KAZ",
+                "total_damages": 67000.0,
+                "total_deaths": 2.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.53,
+                    8.513
+                ]
+            },
+            "properties": {
+                "country": "Sri Lanka",
+                "disaster_type": "Flood",
+                "iso": "LKA",
+                "total_damages": 300000.0,
+                "total_deaths": 18.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.822,
+                    20.687
+                ]
+            },
+            "properties": {
+                "country": "Myanmar",
+                "disaster_type": "Earthquake",
+                "iso": "MMR",
+                "total_damages": 3600.0,
+                "total_deaths": 74.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.64,
+                    -18.188
+                ]
+            },
+            "properties": {
+                "country": "Namibia",
+                "disaster_type": "Flood",
+                "iso": "NAM",
+                "total_damages": 12000.0,
+                "total_deaths": 108.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.68,
+                    -43.583
+                ]
+            },
+            "properties": {
+                "country": "New Zealand",
+                "disaster_type": "Earthquake",
+                "iso": "NZL",
+                "total_damages": 15000000.0,
+                "total_deaths": 181.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.07,
+                    25.012
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Flood",
+                "iso": "PAK",
+                "total_damages": 2500000.0,
+                "total_deaths": 509.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.05,
+                    7.39811
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Flood",
+                "iso": "PHL",
+                "total_damages": 251.0,
+                "total_deaths": 31.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.94,
+                    21.3521
+                ]
+            },
+            "properties": {
+                "country": "Saudi Arabia",
+                "disaster_type": "Flood",
+                "iso": "SAU",
+                "total_damages": 300000.0,
+                "total_deaths": 11.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.103,
+                    39.149
+                ]
+            },
+            "properties": {
+                "country": "Turkey",
+                "disaster_type": "Earthquake",
+                "iso": "TUR",
+                "total_damages": 244000.0,
+                "total_deaths": 3.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94,
+                    4.64
+                ]
+            },
+            "properties": {
+                "country": "Colombia",
+                "disaster_type": "Flood",
+                "iso": "COL",
+                "total_damages": 1290000.0,
+                "total_deaths": 135.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.41,
+                    -31.055
+                ]
+            },
+            "properties": {
+                "country": "South Africa",
+                "disaster_type": "Flood",
+                "iso": "ZAF",
+                "total_damages": 211000.0,
+                "total_deaths": 40.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7,
+                    29.565
+                ]
+            },
+            "properties": {
+                "country": "Algeria",
+                "disaster_type": "Flood",
+                "iso": "DZA",
+                "total_damages": 779000.0,
+                "total_deaths": 10.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.893,
+                    2.965
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 5850.0,
+                "total_deaths": 10.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.0,
+                    20.651
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 930000.0,
+                "total_deaths": 239.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.94,
+                    33.4553
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 1200000.0,
+                "total_deaths": 91.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.08,
+                    -17.784
+                ]
+            },
+            "properties": {
+                "country": "Fiji",
+                "disaster_type": "Flood",
+                "iso": "FJI",
+                "total_damages": 17000.0,
+                "total_deaths": 10.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.52,
+                    42.0681
+                ]
+            },
+            "properties": {
+                "country": "Georgia",
+                "disaster_type": "Flood",
+                "iso": "GEO",
+                "total_damages": 3000.0,
+                "total_deaths": 5.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.85,
+                    30.1135
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 110000.0,
+                "total_deaths": 30.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.85,
+                    31.3
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 20000.0,
+                "total_deaths": 45.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.63,
+                    26.8
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 98000.0,
+                "total_deaths": 21.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.26,
+                    42.555
+                ]
+            },
+            "properties": {
+                "country": "Bulgaria",
+                "disaster_type": "Flood",
+                "iso": "BGR",
+                "total_damages": 4400.0,
+                "total_deaths": 5.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.64,
+                    -21.71
+                ]
+            },
+            "properties": {
+                "country": "Australia",
+                "disaster_type": "Flood",
+                "iso": "AUS",
+                "total_damages": 225000.0,
+                "total_deaths": 2.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.217,
+                    -35.2
+                ]
+            },
+            "properties": {
+                "country": "Chile",
+                "disaster_type": "Earthquake",
+                "iso": "CHL",
+                "total_damages": 100000.0,
+                "total_deaths": 1.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.781,
+                    27.767
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 300000.0,
+                "total_deaths": 4.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.983,
+                    27.575
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 1000000.0,
+                "total_deaths": 81.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.49,
+                    92.4515
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 316333.0,
+                "total_deaths": 53.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.04,
+                    31.41
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 600000.0,
+                "total_deaths": 58.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.07,
+                    3.606
+                ]
+            },
+            "properties": {
+                "country": "Colombia",
+                "disaster_type": "Flood",
+                "iso": "COL",
+                "total_damages": 40000.0,
+                "total_deaths": 17.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.315,
+                    10.085
+                ]
+            },
+            "properties": {
+                "country": "Costa Rica",
+                "disaster_type": "Earthquake",
+                "iso": "CRI",
+                "total_damages": 45000.0,
+                "total_deaths": 2.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    178.02,
+                    -17.7982
+                ]
+            },
+            "properties": {
+                "country": "Fiji",
+                "disaster_type": "Flood",
+                "iso": "FJI",
+                "total_damages": 72000.0,
+                "total_deaths": 5.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.13,
+                    54.04
+                ]
+            },
+            "properties": {
+                "country": "UK",
+                "disaster_type": "Flood",
+                "iso": "GBR",
+                "total_damages": 81000.0,
+                "total_deaths": 3.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.19,
+                    53.45
+                ]
+            },
+            "properties": {
+                "country": "UK",
+                "disaster_type": "Flood",
+                "iso": "GBR",
+                "total_damages": 1630000.0,
+                "total_deaths": 4.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.895,
+                    13.988
+                ]
+            },
+            "properties": {
+                "country": "Guatemala",
+                "disaster_type": "Earthquake",
+                "iso": "GTM",
+                "total_damages": 210000.0,
+                "total_deaths": 44.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.46,
+                    23.6387
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 661000.0,
+                "total_deaths": 55.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -41.94,
+                    -18.9538
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 540000.0,
+                "total_deaths": 64.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.262,
+                    34.512
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 1000000.0,
+                "total_deaths": 95.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.3502,
+                    28.2425
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 155000.0,
+                "total_deaths": 3.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.665,
+                    4.645
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 130000.0,
+                "total_deaths": 48.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.51,
+                    1.0256
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 2000.0,
+                "total_deaths": 17.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.61,
+                    32.714
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 1100000.0,
+                "total_deaths": 6054.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.69,
+                    22.7696
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Storm",
+                "iso": "CHN",
+                "total_damages": 2120000.0,
+                "total_deaths": 88.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.68,
+                    -34.4809
+                ]
+            },
+            "properties": {
+                "country": "Argentina",
+                "disaster_type": "Flood",
+                "iso": "ARG",
+                "total_damages": 1300000.0,
+                "total_deaths": 52.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.64,
+                    51.24
+                ]
+            },
+            "properties": {
+                "country": "Canada",
+                "disaster_type": "Flood",
+                "iso": "CAN",
+                "total_damages": 5700000.0,
+                "total_deaths": 4.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.888,
+                    30.308
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 6800000.0,
+                "total_deaths": 198.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.02,
+                    30.4563
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 4621600.0,
+                "total_deaths": 233.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.18,
+                    35.9161
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 457000.0,
+                "total_deaths": 43.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.14,
+                    25.8633
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Storm",
+                "iso": "CHN",
+                "total_damages": 253000.0,
+                "total_deaths": 1.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.11,
+                    49.1358
+                ]
+            },
+            "properties": {
+                "country": "Germany",
+                "disaster_type": "Flood",
+                "iso": "DEU",
+                "total_damages": 12900000.0,
+                "total_deaths": 4.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.51,
+                    53.2732
+                ]
+            },
+            "properties": {
+                "country": "UK",
+                "disaster_type": "Flood",
+                "iso": "GBR",
+                "total_damages": 1500000.0,
+                "total_deaths": 2.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1207,
+                    14.6056
+                ]
+            },
+            "properties": {
+                "country": "Guatemala",
+                "disaster_type": "Earthquake",
+                "iso": "GTM",
+                "total_damages": 2000.0,
+                "total_deaths": 1.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.73,
+                    -6.17945
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 3000000.0,
+                "total_deaths": 34.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.863,
+                    33.061
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Earthquake",
+                "iso": "IND",
+                "total_damages": 120000.0,
+                "total_deaths": 3.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.01,
+                    -13.3888
+                ]
+            },
+            "properties": {
+                "country": "Bolivia",
+                "disaster_type": "Landslide",
+                "iso": "BOL",
+                "total_damages": 200000.0,
+                "total_deaths": 74.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.392,
+                    3.17
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Volcanic activity",
+                "iso": "IDN",
+                "total_damages": 83000.0,
+                "total_deaths": 32.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.71,
+                    -6.6324
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 600000.0,
+                "total_deaths": 32.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.88,
+                    8.526
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Storm",
+                "iso": "PHL",
+                "total_damages": 38082.0,
+                "total_deaths": 1439.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.33,
+                    44.422
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Flood",
+                "iso": "ITA",
+                "total_damages": 545000.0,
+                "total_deaths": 10.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.87,
+                    37.851
+                ]
+            },
+            "properties": {
+                "country": "North Korea",
+                "disaster_type": "Flood",
+                "iso": "KOR",
+                "total_damages": 52000.0,
+                "total_deaths": 53.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    172.743,
+                    -43.564
+                ]
+            },
+            "properties": {
+                "country": "New Zealand",
+                "disaster_type": "Earthquake",
+                "iso": "NZL",
+                "total_damages": 3000000.0,
+                "total_deaths": 1.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.5,
+                    12.004
+                ]
+            },
+            "properties": {
+                "country": "Cambodia",
+                "disaster_type": "Flood",
+                "iso": "KHM",
+                "total_damages": 521000.0,
+                "total_deaths": 247.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.508,
+                    38.721
+                ]
+            },
+            "properties": {
+                "country": "Turkey",
+                "disaster_type": "Earthquake",
+                "iso": "TUR",
+                "total_damages": 1500000.0,
+                "total_deaths": 604.0,
+                "year": 2011
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.77,
+                    7.976
+                ]
+            },
+            "properties": {
+                "country": "Sri Lanka",
+                "disaster_type": "Flood",
+                "iso": "LKA",
+                "total_damages": 1200.0,
+                "total_deaths": 53.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.885,
+                    23.005
+                ]
+            },
+            "properties": {
+                "country": "Myanmar",
+                "disaster_type": "Earthquake",
+                "iso": "MMR",
+                "total_damages": 1170.0,
+                "total_deaths": 38.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.206,
+                    9.999
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 8900.0,
+                "total_deaths": 113.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.826,
+                    38.329
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 500000.0,
+                "total_deaths": 306.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.23,
+                    44.89
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Earthquake",
+                "iso": "ITA",
+                "total_damages": 15800000.0,
+                "total_deaths": 7.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.41,
+                    43.1605
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Flood",
+                "iso": "ITA",
+                "total_damages": 15000.0,
+                "total_deaths": 4.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.19,
+                    -0.191962
+                ]
+            },
+            "properties": {
+                "country": "Kenya",
+                "disaster_type": "Flood",
+                "iso": "KEN",
+                "total_damages": 100000.0,
+                "total_deaths": 73.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.231,
+                    16.493
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Earthquake",
+                "iso": "MEX",
+                "total_damages": 320000.0,
+                "total_deaths": 2.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.83,
+                    28.524
+                ]
+            },
+            "properties": {
+                "country": "Nepal",
+                "disaster_type": "Flood",
+                "iso": "NPL",
+                "total_damages": 1000.0,
+                "total_deaths": 72.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.77,
+                    28.04
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Flood",
+                "iso": "PAK",
+                "total_damages": 2500000.0,
+                "total_deaths": 480.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.638,
+                    10.811
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 3244.0,
+                "total_deaths": 1.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.49,
+                    14.46
+                ]
+            },
+            "properties": {
+                "country": "Senegal",
+                "disaster_type": "Flood",
+                "iso": "SEN",
+                "total_damages": 10000.0,
+                "total_deaths": 19.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.43,
+                    21.68
+                ]
+            },
+            "properties": {
+                "country": "Somalia",
+                "disaster_type": "Storm",
+                "iso": "SOM",
+                "total_damages": 2000.0,
+                "total_deaths": 162.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.72,
+                    2.46174
+                ]
+            },
+            "properties": {
+                "country": "Kenya",
+                "disaster_type": "Flood",
+                "iso": "KEN",
+                "total_damages": 36000.0,
+                "total_deaths": 96.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14,
+                    16.3191
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Flood",
+                "iso": "PHL",
+                "total_damages": 2190000.0,
+                "total_deaths": 31.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.114,
+                    -10.799
+                ]
+            },
+            "properties": {
+                "country": "Solomon Islands",
+                "disaster_type": "Earthquake",
+                "iso": "SLB",
+                "total_damages": 2000.0,
+                "total_deaths": 10.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.593,
+                    28.428
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 600000.0,
+                "total_deaths": 37.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.01,
+                    40.3
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Flood",
+                "iso": "ITA",
+                "total_damages": 780000.0,
+                "total_deaths": 18.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.68,
+                    -24.8006
+                ]
+            },
+            "properties": {
+                "country": "Mozambique",
+                "disaster_type": "Flood",
+                "iso": "MOZ",
+                "total_damages": 30000.0,
+                "total_deaths": 119.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.52,
+                    -20.2305
+                ]
+            },
+            "properties": {
+                "country": "Mauritius",
+                "disaster_type": "Flood",
+                "iso": "MUS",
+                "total_damages": 2000.0,
+                "total_deaths": 11.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.36,
+                    3.58444
+                ]
+            },
+            "properties": {
+                "country": "Malaysia",
+                "disaster_type": "Flood",
+                "iso": "MYS",
+                "total_damages": 2000.0,
+                "total_deaths": 4.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.5009,
+                    26.951
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Earthquake",
+                "iso": "PAK",
+                "total_damages": 100000.0,
+                "total_deaths": 399.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.11,
+                    28.7404
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Flood",
+                "iso": "PAK",
+                "total_damages": 1500000.0,
+                "total_deaths": 234.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.1167,
+                    9.8796
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 51459.0,
+                "total_deaths": 230.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.99,
+                    13.6883
+                ]
+            },
+            "properties": {
+                "country": "Sudan (the)",
+                "disaster_type": "Flood",
+                "iso": "SDN",
+                "total_damages": 7000.0,
+                "total_deaths": 76.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1,
+                    43.9958
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Flood",
+                "iso": "ITA",
+                "total_damages": 120000.0,
+                "total_deaths": 2.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.4482,
+                    27.1502
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 2000.0,
+                "total_deaths": 1.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.35,
+                    30.503
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Storm",
+                "iso": "USA",
+                "total_damages": 2000000.0,
+                "total_deaths": 1.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.51,
+                    30.3632
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 174000.0,
+                "total_deaths": 2.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5,
+                    28.9635
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Storm",
+                "iso": "USA",
+                "total_damages": 210000.0,
+                "total_deaths": 9.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.24,
+                    38.19
+                ]
+            },
+            "properties": {
+                "country": "Vietnam",
+                "disaster_type": "Flood",
+                "iso": "VNM",
+                "total_damages": 30000.0,
+                "total_deaths": 34.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.56,
+                    -32.93
+                ]
+            },
+            "properties": {
+                "country": "South Africa",
+                "disaster_type": "Flood",
+                "iso": "ZAF",
+                "total_damages": 200000.0,
+                "total_deaths": 13.0,
+                "year": 2012
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.99,
+                    13.9188
+                ]
+            },
+            "properties": {
+                "country": "Saint Vincent and the Grenadines",
+                "disaster_type": "Flood",
+                "iso": "VCT",
+                "total_damages": 108000.0,
+                "total_deaths": 12.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.15,
+                    38.2138
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 25000.0,
+                "total_deaths": 3.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.89,
+                    28.899
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 2000.0,
+                "total_deaths": 3.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.64,
+                    38.8278
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 325000.0,
+                "total_deaths": 5.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.7,
+                    15.58
+                ]
+            },
+            "properties": {
+                "country": "Vietnam",
+                "disaster_type": "Flood",
+                "iso": "VNM",
+                "total_damages": 72000.0,
+                "total_deaths": 47.0,
+                "year": 2013
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.769,
+                    -19.61
+                ]
+            },
+            "properties": {
+                "country": "Chile",
+                "disaster_type": "Earthquake",
+                "iso": "CHL",
+                "total_damages": 100000.0,
+                "total_deaths": 6.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.65,
+                    -4.14041
+                ]
+            },
+            "properties": {
+                "country": "Burundi",
+                "disaster_type": "Flood",
+                "iso": "BDI",
+                "total_damages": 2000.0,
+                "total_deaths": 96.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.4086,
+                    27.1891
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 5000000.0,
+                "total_deaths": 731.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4702,
+                    23.3834
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 274000.0,
+                "total_deaths": 1.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.7374,
+                    30.3398
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 50000.0,
+                "total_deaths": 5.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3889,
+                    40.2893
+                ]
+            },
+            "properties": {
+                "country": "Greece",
+                "disaster_type": "Earthquake",
+                "iso": "GRC",
+                "total_damages": 450000.0,
+                "total_deaths": 3.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.89,
+                    -22.3617
+                ]
+            },
+            "properties": {
+                "country": "Chile",
+                "disaster_type": "Flood",
+                "iso": "CHL",
+                "total_damages": 1500000.0,
+                "total_deaths": 178.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.98,
+                    27.0326
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 800000.0,
+                "total_deaths": 58.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.54,
+                    42.0683
+                ]
+            },
+            "properties": {
+                "country": "Georgia",
+                "disaster_type": "Flood",
+                "iso": "GEO",
+                "total_damages": 23000.0,
+                "total_deaths": 40.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6744,
+                    -31.5729
+                ]
+            },
+            "properties": {
+                "country": "Chile",
+                "disaster_type": "Earthquake",
+                "iso": "CHL",
+                "total_damages": 800000.0,
+                "total_deaths": 19.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.1542,
+                    37.4593
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 3200.0,
+                "total_deaths": 3.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.53,
+                    43.377
+                ]
+            },
+            "properties": {
+                "country": "France",
+                "disaster_type": "Flood",
+                "iso": "FRA",
+                "total_damages": 924000.0,
+                "total_deaths": 20.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.55,
+                    7.38005
+                ]
+            },
+            "properties": {
+                "country": "Ghana",
+                "disaster_type": "Flood",
+                "iso": "GHA",
+                "total_damages": 12000.0,
+                "total_deaths": 25.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -906.13,
+                    148.262
+                ]
+            },
+            "properties": {
+                "country": "Guatemala",
+                "disaster_type": "Landslide",
+                "iso": "GTM",
+                "total_damages": 5000.0,
+                "total_deaths": 350.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.92,
+                    0.382
+                ]
+            },
+            "properties": {
+                "country": "Ecuador",
+                "disaster_type": "Earthquake",
+                "iso": "ECU",
+                "total_damages": 2000000.0,
+                "total_deaths": 672.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.99,
+                    247.041
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 170000.0,
+                "total_deaths": 5.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.24,
+                    27.976
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 22000000.0,
+                "total_deaths": 289.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.09,
+                    90.04
+                ]
+            },
+            "properties": {
+                "country": "Bangladesh",
+                "disaster_type": "Flood",
+                "iso": "BGD",
+                "total_damages": 150000.0,
+                "total_deaths": 106.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -56.44,
+                    -179.555
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 100000.0,
+                "total_deaths": 3.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.95,
+                    247.532
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 3000000.0,
+                "total_deaths": 68.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22,
+                    48.407
+                ]
+            },
+            "properties": {
+                "country": "Germany",
+                "disaster_type": "Flood",
+                "iso": "DEU",
+                "total_damages": 2000000.0,
+                "total_deaths": 7.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -797.01,
+                    -0.786
+                ]
+            },
+            "properties": {
+                "country": "Ecuador",
+                "disaster_type": "Flood",
+                "iso": "ECU",
+                "total_damages": 10000.0,
+                "total_deaths": 9.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.292,
+                    37.418
+                ]
+            },
+            "properties": {
+                "country": "Greece",
+                "disaster_type": "Flood",
+                "iso": "GRC",
+                "total_damages": 56000.0,
+                "total_deaths": 4.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.34,
+                    -9.67763
+                ]
+            },
+            "properties": {
+                "country": "Solomon Islands",
+                "disaster_type": "Flood",
+                "iso": "SLB",
+                "total_damages": 24000.0,
+                "total_deaths": 47.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.308,
+                    -7.93
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Volcanic activity",
+                "iso": "IDN",
+                "total_damages": 103000.0,
+                "total_deaths": 7.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.8779,
+                    11.642
+                ]
+            },
+            "properties": {
+                "country": "Nicaragua",
+                "disaster_type": "Earthquake",
+                "iso": "NIC",
+                "total_damages": 3000.0,
+                "total_deaths": 2.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.6696,
+                    19.6557
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Earthquake",
+                "iso": "THA",
+                "total_damages": 62000.0,
+                "total_deaths": 1.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.19,
+                    41.7575
+                ]
+            },
+            "properties": {
+                "country": "Macedonia (the former Yugoslav Republic of)",
+                "disaster_type": "Flood",
+                "iso": "MKD",
+                "total_damages": 87000.0,
+                "total_deaths": 7.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24,
+                    16.691
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Storm",
+                "iso": "PHL",
+                "total_damages": 210985.0,
+                "total_deaths": 51.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.36,
+                    -18.795
+                ]
+            },
+            "properties": {
+                "country": "Malawi",
+                "disaster_type": "Flood",
+                "iso": "MWI",
+                "total_damages": 390000.0,
+                "total_deaths": 278.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.89,
+                    33.5131
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Flood",
+                "iso": "PAK",
+                "total_damages": 1000.0,
+                "total_deaths": 49.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.41,
+                    33.1767
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 76000.0,
+                "total_deaths": 44.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.53,
+                    20.175
+                ]
+            },
+            "properties": {
+                "country": "Myanmar",
+                "disaster_type": "Flood",
+                "iso": "MMR",
+                "total_damages": 119000.0,
+                "total_deaths": 149.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.541,
+                    5.987
+                ]
+            },
+            "properties": {
+                "country": "Malaysia",
+                "disaster_type": "Earthquake",
+                "iso": "MYS",
+                "total_damages": 2.0,
+                "total_deaths": 24.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.731,
+                    28.23
+                ]
+            },
+            "properties": {
+                "country": "Nepal",
+                "disaster_type": "Earthquake",
+                "iso": "NPL",
+                "total_damages": 5174000.0,
+                "total_deaths": 8831.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.77,
+                    283.812
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Storm",
+                "iso": "MEX",
+                "total_damages": 823000.0,
+                "total_deaths": 14.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.76,
+                    21.8734
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 604000.0,
+                "total_deaths": 81.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    788.55,
+                    118.278
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 2200000.0,
+                "total_deaths": 325.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.28,
+                    995.267
+                ]
+            },
+            "properties": {
+                "country": "Nigeria",
+                "disaster_type": "Flood",
+                "iso": "NGA",
+                "total_damages": 25000.0,
+                "total_deaths": 53.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.35,
+                    -41.092
+                ]
+            },
+            "properties": {
+                "country": "New Zealand",
+                "disaster_type": "Flood",
+                "iso": "NZL",
+                "total_damages": 100000.0,
+                "total_deaths": 1.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.35,
+                    -246.543
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 2000.0,
+                "total_deaths": 8.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.238,
+                    -7.042
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 22000.0,
+                "total_deaths": 53.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.607,
+                    27.464
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 150000.0,
+                "total_deaths": 18.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.65,
+                    24.804
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Earthquake",
+                "iso": "IND",
+                "total_damages": 75000.0,
+                "total_deaths": 8.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.95,
+                    27.068
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 100000.0,
+                "total_deaths": 61.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.187,
+                    42.723
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Earthquake",
+                "iso": "ITA",
+                "total_damages": 5000000.0,
+                "total_deaths": 296.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.75,
+                    32.791
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Earthquake",
+                "iso": "JPN",
+                "total_damages": 20000000.0,
+                "total_deaths": 49.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.964,
+                    23.672
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Flood",
+                "iso": "MEX",
+                "total_damages": 25000.0,
+                "total_deaths": 5.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3123333,
+                    38.2151667
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Earthquake",
+                "iso": "USA",
+                "total_damages": 700000.0,
+                "total_deaths": 1.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.61,
+                    -21.5153
+                ]
+            },
+            "properties": {
+                "country": "South Africa",
+                "disaster_type": "Flood",
+                "iso": "ZAF",
+                "total_damages": 85000.0,
+                "total_deaths": 32.0,
+                "year": 2014
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.86,
+                    20.8137
+                ]
+            },
+            "properties": {
+                "country": "Vietnam",
+                "disaster_type": "Flood",
+                "iso": "VNM",
+                "total_damages": 204000.0,
+                "total_deaths": 32.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -910.83,
+                    356.658
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 600000.0,
+                "total_deaths": 31.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -804.93,
+                    335.033
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Storm",
+                "iso": "USA",
+                "total_damages": 2000000.0,
+                "total_deaths": 25.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.99,
+                    34.1936
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 2700000.0,
+                "total_deaths": 32.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.78,
+                    38.211
+                ]
+            },
+            "properties": {
+                "country": "Tajikistan",
+                "disaster_type": "Earthquake",
+                "iso": "TJK",
+                "total_damages": 5000.0,
+                "total_deaths": 2.0,
+                "year": 2015
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    805.54,
+                    349.452
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Storm",
+                "iso": "USA",
+                "total_damages": 1000000.0,
+                "total_deaths": 25.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -561.95,
+                    -324.347
+                ]
+            },
+            "properties": {
+                "country": "Uruguay",
+                "disaster_type": "Flood",
+                "iso": "URY",
+                "total_damages": 3000.0,
+                "total_deaths": 8.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -955.37,
+                    308.574
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 300000.0,
+                "total_deaths": 15.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.618,
+                    1.036
+                ]
+            },
+            "properties": {
+                "country": "Tanzania, United Republic of",
+                "disaster_type": "Earthquake",
+                "iso": "TZA",
+                "total_damages": 458000.0,
+                "total_deaths": 17.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.8,
+                    29.988
+                ]
+            },
+            "properties": {
+                "country": "USA",
+                "disaster_type": "Flood",
+                "iso": "USA",
+                "total_damages": 10000000.0,
+                "total_deaths": 13.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898,
+                    -33.277
+                ]
+            },
+            "properties": {
+                "country": "Australia",
+                "disaster_type": "Flood",
+                "iso": "AUS",
+                "total_damages": 25000.0,
+                "total_deaths": 1.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.047,
+                    39.238
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 5500.0,
+                "total_deaths": 1.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.539,
+                    26.077
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 60000.0,
+                "total_deaths": 2.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.152,
+                    449.847
+                ]
+            },
+            "properties": {
+                "country": "Albania",
+                "disaster_type": "Flood",
+                "iso": "ALB",
+                "total_damages": 8900.0,
+                "total_deaths": 1.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.231,
+                    -8.096
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 100000.0,
+                "total_deaths": 14.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.249,
+                    -30.939
+                ]
+            },
+            "properties": {
+                "country": "Chile",
+                "disaster_type": "Flood",
+                "iso": "CHL",
+                "total_damages": 2000.0,
+                "total_deaths": 3.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.855,
+                    33.193
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 500000.0,
+                "total_deaths": 29.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.656,
+                    -8.718
+                ]
+            },
+            "properties": {
+                "country": "Angola",
+                "disaster_type": "Flood",
+                "iso": "AGO",
+                "total_damages": 2000.0,
+                "total_deaths": 11.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.406,
+                    45.575
+                ]
+            },
+            "properties": {
+                "country": "Canada",
+                "disaster_type": "Flood",
+                "iso": "CAN",
+                "total_damages": 200000.0,
+                "total_deaths": 2.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.645,
+                    29.612
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Flood",
+                "iso": "CHN",
+                "total_damages": 361000.0,
+                "total_deaths": 16.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.095,
+                    -22.479
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 10000.0,
+                "total_deaths": 4.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -48.623,
+                    -24.206
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 43000.0,
+                "total_deaths": 3.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.936,
+                    39.591
+                ]
+            },
+            "properties": {
+                "country": "Spain",
+                "disaster_type": "Flood",
+                "iso": "ESP",
+                "total_damages": 150000.0,
+                "total_deaths": 13.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.225,
+                    43.284
+                ]
+            },
+            "properties": {
+                "country": "Spain",
+                "disaster_type": "Flood",
+                "iso": "ESP",
+                "total_damages": 58000.0,
+                "total_deaths": 4.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.632,
+                    29.498
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 2000.0,
+                "total_deaths": 2.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.957,
+                    28.405
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 1300000.0,
+                "total_deaths": 13.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.064,
+                    -42.725
+                ]
+            },
+            "properties": {
+                "country": "New Zealand",
+                "disaster_type": "Earthquake",
+                "iso": "NZL",
+                "total_damages": 3900000.0,
+                "total_deaths": 2.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.108,
+                    5.281
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 100000.0,
+                "total_deaths": 104.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.34,
+                    17.654
+                ]
+            },
+            "properties": {
+                "country": "India",
+                "disaster_type": "Flood",
+                "iso": "IND",
+                "total_damages": 589000.0,
+                "total_deaths": 28.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.043,
+                    42.934
+                ]
+            },
+            "properties": {
+                "country": "Italy",
+                "disaster_type": "Earthquake",
+                "iso": "ITA",
+                "total_damages": 200000.0,
+                "total_deaths": 1.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.569,
+                    20.923
+                ]
+            },
+            "properties": {
+                "country": "Myanmar",
+                "disaster_type": "Earthquake",
+                "iso": "MMR",
+                "total_damages": 10000.0,
+                "total_deaths": 4.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.899,
+                    15.022
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Earthquake",
+                "iso": "MEX",
+                "total_damages": 2300000.0,
+                "total_deaths": 98.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.489,
+                    18.55
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Earthquake",
+                "iso": "MEX",
+                "total_damages": 6000000.0,
+                "total_deaths": 369.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.169,
+                    37.704
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Flood",
+                "iso": "IRN",
+                "total_damages": 353000.0,
+                "total_deaths": 42.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.878,
+                    27.941
+                ]
+            },
+            "properties": {
+                "country": "Nepal",
+                "disaster_type": "Flood",
+                "iso": "NPL",
+                "total_damages": 595000.0,
+                "total_deaths": 176.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.148,
+                    -11.004
+                ]
+            },
+            "properties": {
+                "country": "Peru",
+                "disaster_type": "Flood",
+                "iso": "PER",
+                "total_damages": 3100000.0,
+                "total_deaths": 184.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.204,
+                    37.772
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 2000.0,
+                "total_deaths": 3.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.959,
+                    34.911
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 740000.0,
+                "total_deaths": 444.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.0,
+                    33.2
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Storm",
+                "iso": "JPN",
+                "total_damages": 2000.0,
+                "total_deaths": 2.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402,
+                    14.617
+                ]
+            },
+            "properties": {
+                "country": "Niger (the)",
+                "disaster_type": "Flood",
+                "iso": "NER",
+                "total_damages": 10000.0,
+                "total_deaths": 56.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.452,
+                    9.907
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 13974.0,
+                "total_deaths": 8.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.619,
+                    11.111
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 4364.0,
+                "total_deaths": 3.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.84,
+                    -178.0
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 1450000.0,
+                "total_deaths": 4140.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.429,
+                    35.606
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Flood",
+                "iso": "IRN",
+                "total_damages": 166000.0,
+                "total_deaths": 9.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.895,
+                    35.65
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Flood",
+                "iso": "JPN",
+                "total_damages": 9500000.0,
+                "total_deaths": 246.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.766,
+                    -6.149
+                ]
+            },
+            "properties": {
+                "country": "Papua New Guinea",
+                "disaster_type": "Earthquake",
+                "iso": "PNG",
+                "total_damages": 61000.0,
+                "total_deaths": 145.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.452,
+                    -8.287
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 790000.0,
+                "total_deaths": 564.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.918,
+                    -7.196
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 80000.0,
+                "total_deaths": 1.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.491,
+                    -8.274
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 29000.0,
+                "total_deaths": 14.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.577,
+                    -8.325
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 5000.0,
+                "total_deaths": 10.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.64,
+                    34.826
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Earthquake",
+                "iso": "JPN",
+                "total_damages": 3250000.0,
+                "total_deaths": 5.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.238,
+                    10.475
+                ]
+            },
+            "properties": {
+                "country": "Nigeria",
+                "disaster_type": "Flood",
+                "iso": "NGA",
+                "total_damages": 275000.0,
+                "total_deaths": 199.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.573,
+                    38.531
+                ]
+            },
+            "properties": {
+                "country": "South Korea",
+                "disaster_type": "Flood",
+                "iso": "PRK",
+                "total_damages": 25000.0,
+                "total_deaths": 148.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.691,
+                    24.555
+                ]
+            },
+            "properties": {
+                "country": "Libya",
+                "disaster_type": "Flood",
+                "iso": "LBY",
+                "total_damages": 7100.0,
+                "total_deaths": 4.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35,
+                    14.99
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 50000.0,
+                "total_deaths": 25.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.986,
+                    20.807
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 5258.0,
+                "total_deaths": 9.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.395,
+                    14.867
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 120000.0,
+                "total_deaths": 4.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.753,
+                    14.445
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 25000.0,
+                "total_deaths": 14.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.68,
+                    16.004
+                ]
+            },
+            "properties": {
+                "country": "Vietnam",
+                "disaster_type": "Flood",
+                "iso": "VNM",
+                "total_damages": 104280.0,
+                "total_deaths": 35.0,
+                "year": 2016
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.679,
+                    14.594
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 1400.0,
+                "total_deaths": 9.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.061,
+                    7.305
+                ]
+            },
+            "properties": {
+                "country": "Thailand",
+                "disaster_type": "Flood",
+                "iso": "THA",
+                "total_damages": 1000000.0,
+                "total_deaths": 96.0,
+                "year": 2017
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.012,
+                    -1.784
+                ]
+            },
+            "properties": {
+                "country": "Rwanda",
+                "disaster_type": "Flood",
+                "iso": "RWA",
+                "total_damages": 11000.0,
+                "total_deaths": 24.0,
+                "year": 2018
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.091,
+                    38.05
+                ]
+            },
+            "properties": {
+                "country": "Spain",
+                "disaster_type": "Flood",
+                "iso": "ESP",
+                "total_damages": 2500000.0,
+                "total_deaths": 7.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.485,
+                    58.911
+                ]
+            },
+            "properties": {
+                "country": "Russia",
+                "disaster_type": "Flood",
+                "iso": "RUS",
+                "total_damages": 460000.0,
+                "total_deaths": 31.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.522,
+                    41.511
+                ]
+            },
+            "properties": {
+                "country": "Albania",
+                "disaster_type": "Earthquake",
+                "iso": "ALB",
+                "total_damages": 700000.0,
+                "total_deaths": 51.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.901,
+                    -19.398
+                ]
+            },
+            "properties": {
+                "country": "Brazil",
+                "disaster_type": "Flood",
+                "iso": "BRA",
+                "total_damages": 300000.0,
+                "total_deaths": 61.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    307.541,
+                    290.213
+                ]
+            },
+            "properties": {
+                "country": "Egypt",
+                "disaster_type": "Flood",
+                "iso": "EGY",
+                "total_damages": 76000.0,
+                "total_deaths": 40.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.281,
+                    27.296
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 17000.0,
+                "total_deaths": 4.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.011,
+                    25.761
+                ]
+            },
+            "properties": {
+                "country": "China",
+                "disaster_type": "Earthquake",
+                "iso": "CHN",
+                "total_damages": 49000.0,
+                "total_deaths": 3.0,
+                "year": 2021
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.508,
+                    -6.533
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Flood",
+                "iso": "IDN",
+                "total_damages": 1200000.0,
+                "total_deaths": 66.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.545,
+                    32.951
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Flood",
+                "iso": "JPN",
+                "total_damages": 100000.0,
+                "total_deaths": 1.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.558,
+                    37.808
+                ]
+            },
+            "properties": {
+                "country": "Iran",
+                "disaster_type": "Earthquake",
+                "iso": "IRN",
+                "total_damages": 90000.0,
+                "total_deaths": 6.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.766,
+                    33.106
+                ]
+            },
+            "properties": {
+                "country": "Pakistan",
+                "disaster_type": "Earthquake",
+                "iso": "PAK",
+                "total_damages": 17000.0,
+                "total_deaths": 39.0,
+                "year": 2019
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.039,
+                    326.655
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Flood",
+                "iso": "JPN",
+                "total_damages": 5800000.0,
+                "total_deaths": 82.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    365.935,
+                    116.343
+                ]
+            },
+            "properties": {
+                "country": "Kenya",
+                "disaster_type": "Flood",
+                "iso": "KEN",
+                "total_damages": 10000.0,
+                "total_deaths": 285.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.883,
+                    17.935
+                ]
+            },
+            "properties": {
+                "country": "Puerto Rico",
+                "disaster_type": "Earthquake",
+                "iso": "PRI",
+                "total_damages": 800000.0,
+                "total_deaths": 4.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.966,
+                    45.897
+                ]
+            },
+            "properties": {
+                "country": "Croatia",
+                "disaster_type": "Earthquake",
+                "iso": "HRV",
+                "total_damages": 6800000.0,
+                "total_deaths": 1.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.255,
+                    45.422
+                ]
+            },
+            "properties": {
+                "country": "Croatia",
+                "disaster_type": "Earthquake",
+                "iso": "HRV",
+                "total_damages": 469444.0,
+                "total_deaths": 8.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.953,
+                    15.916
+                ]
+            },
+            "properties": {
+                "country": "Mexico",
+                "disaster_type": "Earthquake",
+                "iso": "MEX",
+                "total_damages": 75000.0,
+                "total_deaths": 10.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.123,
+                    12.021
+                ]
+            },
+            "properties": {
+                "country": "Philippines",
+                "disaster_type": "Earthquake",
+                "iso": "PHL",
+                "total_damages": 2500.0,
+                "total_deaths": 1.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.367,
+                    38.39
+                ]
+            },
+            "properties": {
+                "country": "Turkey",
+                "disaster_type": "Earthquake",
+                "iso": "TUR",
+                "total_damages": 88000.0,
+                "total_deaths": 41.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.779,
+                    37.913
+                ]
+            },
+            "properties": {
+                "country": "Turkey",
+                "disaster_type": "Earthquake",
+                "iso": "TUR",
+                "total_damages": 450000.0,
+                "total_deaths": 115.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.901,
+                    -2.976
+                ]
+            },
+            "properties": {
+                "country": "Indonesia",
+                "disaster_type": "Earthquake",
+                "iso": "IDN",
+                "total_damages": 58700.0,
+                "total_deaths": 110.0,
+                "year": 2021
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.749,
+                    37.745
+                ]
+            },
+            "properties": {
+                "country": "Japan",
+                "disaster_type": "Earthquake",
+                "iso": "JPN",
+                "total_damages": 7500000.0,
+                "total_deaths": 1.0,
+                "year": 2021
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.183,
+                    20.691
+                ]
+            },
+            "properties": {
+                "country": "Vietnam",
+                "disaster_type": "Storm",
+                "iso": "VNM",
+                "total_damages": 1500.0,
+                "total_deaths": 5.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.628,
+                    492.688
+                ]
+            },
+            "properties": {
+                "country": "Ukraine",
+                "disaster_type": "Flood",
+                "iso": "UKR",
+                "total_damages": 153861.0,
+                "total_deaths": 3.0,
+                "year": 2020
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    444.372,
+                    132.586
+                ]
+            },
+            "properties": {
+                "country": "Yemen",
+                "disaster_type": "Flood",
+                "iso": "YEM",
+                "total_damages": 10000.0,
+                "total_deaths": 10.0,
+                "year": 2020
+            }
+        }
+    ]
+}
