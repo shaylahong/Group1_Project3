@@ -56,21 +56,5 @@ def getData():
         return f"Error fetching data: {str(ex)}"
 
 
-@app.route('/Country/')
-def Country():
-    try:
-        # Use the SQLAlchemy session to execute queries
-        result = session.execute("SELECT * FROM disasters;").fetchall()
-        countries_set = [row[2] for row in result]
-        countries_list = list(countries_set)
-        unique_countries = list(set(countries_list))
-        return jsonify({"countries": unique_countries})
-
-        # Convert the result to a list of dictionaries
-        return jsonify({"countries": countries_list})
-    except Exception as ex:
-        print(ex)
-        return f"Error fetching data: {str(ex)}"
-
 if __name__ =="__main__":
     app.run(debug=True)

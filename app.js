@@ -49,15 +49,7 @@ fetchData(data => {
     
     updatePlot(top20Countries[0], data);
     updateBubblePlot(top20Countries[0], data);
-    
-    // Listen to the dropdown change event
-    // dropdown.on("change", function() {
-    //     const newCountry = d3.select(this).property("value");
-    //     fetchData(data => {
-    //         updatePlot(newCountry, data);
-    //         updateBubblePlot(newCountry, data);
-    //     });
-    // });
+
 });
 }
 
