@@ -49,7 +49,7 @@ fetchData(data => {
     
     updatePlot(top20Countries[0], data);
     updateBubblePlot(top20Countries[0], data);
-
+    
 });
 }
 
@@ -102,45 +102,61 @@ function updatePlot(selectedCountry, data) {
 function updateBubblePlot(selectedCountry, data) {
     const filteredData = data.filter(item => item.country === selectedCountry);
 
-    let countryCounts = {};
-    let disasterTypes = {};
+    let totalDeathsByDisaster = {};
 
-    filteredData.forEach(item => {
-        if (countryCounts[item.year]) {
-            countryCounts[item.year] += 1;
-            disasterTypes[item.year].push(item.disaster_type);
-        } else {
-            countryCounts[item.year] = 1;
-            disasterTypes[item.year] = [item.disaster_type];
-        }
-    });
+filteredData.forEach(item => {
+    if (!totalDeathsByDisaster[item.year]) {
+        totalDeathsByDisaster[item.year] = {};
+    }
 
-    const years = Object.keys(countryCounts).map(Number);
-    const counts = Object.values(countryCounts);
-    const disasterTexts = years.map(year => `Disasters: ${disasterTypes[year].join(', ')}`);
+    if (!totalDeathsByDisaster[item.year][item.disaster_type]) {
+        totalDeathsByDisaster[item.year][item.disaster_type] = 0;
+    }
+
+    totalDeathsByDisaster[item.year][item.disaster_type] += parseFloat(item.total_deaths);
+});
+
+const years = Object.keys(totalDeathsByDisaster).sort((a, b) => a - b).map(Number);
+const deathsCounts = years.map(year => {
+    let sum = 0;
+    for (let type in totalDeathsByDisaster[year]) {
+        sum += totalDeathsByDisaster[year][type];
+    }
+    return Math.round(sum);
+});
+
+const deathTexts = years.map(year => {
+    let texts = [];
+    for (let type in totalDeathsByDisaster[year]) {
+        texts.push(`${type}: ${totalDeathsByDisaster[year][type]}`);
+    }
+    return `Year: ${year} | ` + texts.join(", ");
+});
+
 
     const bubbleData = [{
         type: 'scatter',
         mode: 'markers',
         x: years,
-        y: counts,
+        y: deathsCounts,
         marker: {
-        size: counts,
-        color: counts,
+        size: deathsCounts.map(deathCount => Math.sqrt(deathCount)*10),
+        color: deathsCounts,
         sizemode: 'diameter',
-        sizeref: 0.0001,
+        sizeref: 0.01,
         sizemode: 'area' 
         },
-        text: disasterTexts,
+        text: deathTexts,
     }];
 
     const bubbleLayout = {
-    xaxis: {
-        title: "Year",
-        type: "category"  // Force the x-axis to treat years as categories
-    },
-    yaxis: { title: "Number of Disasters" }
-    };
+        title: `Total Deaths for ${selectedCountry} by Disaster Type`,
+        xaxis: {
+            title: "Year",
+            type: "category"  // Force the x-axis to treat years as categories
+        },
+        yaxis: { title: "Total Deaths" }
+        };
 
 
     Plotly.newPlot('bubble', bubbleData, bubbleLayout);
