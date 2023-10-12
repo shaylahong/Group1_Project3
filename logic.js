@@ -36,14 +36,16 @@ fetch(url)
             },
             onEachFeature: function(feature, layer) {
                 // For each feature, add a popup with the country, disaster type, year, number of deaths, and total damages
-                if (feature.properties && feature.properties.country && feature.properties.disaster_type && feature.properties.year && feature.properties.total_deaths && feature.properties.total_damages) {
-                    layer.bindPopup(
+                if (feature.properties && feature.properties.country && feature.properties.disaster_type && feature.properties.year && feature.properties.total_deaths) {
+                    var popupText = 
                         'Country: ' + feature.properties.country +
                         '<br>Disaster Type: ' + feature.properties.disaster_type +
                         '<br>Year: ' + feature.properties.year +
-                        '<br>Total Deaths: ' + feature.properties.total_deaths +
-                        '<br>Total Damages: ' + feature.properties.total_damages
-                    );
+                        '<br>Total Deaths: ' + feature.properties.total_deaths;
+                    if (feature.properties.total_damages) {
+                        popupText += '<br>Total Damages (000 US$): ' + feature.properties.total_damages;
+                    }
+                    layer.bindPopup(popupText);
                 }
             }
         }).addTo(map);
