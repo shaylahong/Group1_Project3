@@ -6,20 +6,27 @@ data sourced from: https://www.kaggle.com/datasets/brsdincer/all-natural-disaste
 Using the Flask framework to create a REST API for retrieving data from a PostgreSQL database. 
 
 1. Importing Necessary Modules: automap_base, Session, create_engine, func, text from SQLAlchemy, Decimal for handling decimal numbers, and CORS for handling Cross-Origin Resource Sharing.
+
 2. Initializing Flask and Enabling CORS: 
 - An instance of the Flask application is created and named app.
 - CORS (Cross-Origin Resource Sharing) is enabled for the app, allowing it to handle requests from different origins.
-3. Database Configuration: using PostgreSQL database 
+
+3. Database Configuration: using PostgreSQL database.
+
 4. Reflecting Database Tables:
 - SQLAlchemy's automap_base is used to create a base object called Base.
 The Base object is prepared to reflect the tables in the database using 
 - Base.prepare(engine, reflect=True). This step allows Flask to interact with the database using object-oriented programming.
+
 5. Creating a Database Session:
 - A session object named session is created using Session(engine). This session will be used to interact with the database. 
+
 6. Route for the Index Page: used for test the connection. 
+
 7. Route for Getting Data: 
 - It executes a SQL query to select all columns from "disasters" table and fetches the result using session.execute(stmt).fetchall(). 
 - The data is returned as JSON using Flask's jsonify function.
+
 8. Main Block
 
 
