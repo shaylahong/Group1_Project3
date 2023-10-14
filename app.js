@@ -87,7 +87,7 @@ function updatePlot(selectedCountry, data) {
     let allDisasterTypes = new Set(filteredData.map(item => item.disaster_type));
     
     allDisasterTypes.forEach(disasterType => {
-        let yearlyCounts = years.map(year => yearlyDisasterCounts[year][disasterType] || 0);
+        let yearlyCounts = years.map(year => yearlyDisasterCounts[year][disasterType]);
         barData.push({
             type: 'bar',
             name: disasterType,
