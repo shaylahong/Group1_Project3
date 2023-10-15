@@ -181,13 +181,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { // Using Ope
 let markers = L.layerGroup().addTo(mymap); // Layer for the disaster markers
 
 
-function initMap() {
-    fetchData(data => {
-        const firstCountryData = data.filter(item => item.country === top20Countries[0]);
-        initMap(firstCountryData);
-    });
-}
-
 function isValidCoordinates(coords) {
     if (!Array.isArray(coords)) return false;
     if (coords.length !== 2) return false;

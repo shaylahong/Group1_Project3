@@ -56,9 +56,8 @@ The Base object is prepared to reflect the tables in the database using
 - It initializes a Leaflet map (mymap) with a specified view and adds an OpenStreetMap tile layer.
 - It creates a layer group (markers) to manage disaster markers on the map.
 
-5. Initialize Map (initMap Function):
-- The initMap function is called to initialize the map component.
-- It fetches data and initializes the map with data from the first country in the top 20 countries.
+5. Validate coordinates (isValidCoordinates function):
+- It is designed to validate a given set of coordinates to ensure they are both in the correct format and within valid ranges for latitude and longitude values.
 
 6. Update Map (updateMap Function):
 - The updateMap function clears previous markers and adds new markers for disaster data that has valid coordinates. Each marker contains information about the disaster.
